@@ -6,7 +6,7 @@ Projeto desenvolvido durante a disciplina de Interface Web, ministrada pelo prof
 
 # Sobre o aplicativo
 <br>
-<img width="1865" height="895" alt="Média_fidelidade" src="https://github.com/user-attachments/assets/a5c98895-911d-4b4e-87e2-5fbc17258f93" />
+<img width="281" height="636" alt="Média_fidelidade" src="https://github.com/user-attachments/assets/0019e7fb-1311-4db8-a521-c21da95213e5" />
 
 Feito com o objetivo de viabilizar a organização e auxiliar no cotidiano, o projeto VitalTask traz uma interface limpa e acessível para pessoas de todas as idades, incluindo gráficos e progresso semanal.
 <br>
