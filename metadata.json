@@ -1,0 +1,6 @@
+{
+  "name": "VitalTask",
+  "description": "Seu organizador pessoal de hábitos, afazeres, calendário e progresso direcionado ao bem-estar e produtividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
